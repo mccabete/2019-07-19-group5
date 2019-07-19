@@ -22,7 +22,7 @@ and the [design notes][design] have more detail on what we do and why.
 And please note:
 if you are teaching Git,
 please [create a separate repository](#setting-up-a-separate-repository-for-learners)
-for your learners to practice in.
+for your learners to practice in.......
 
 ## Creating a Repository
 
